@@ -87,12 +87,3 @@ Worked with **Docker**, **AWS EC2/S3**, **Azure DevOps**, **Linux**, **Nginx**, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedaali1999&show_icons=true&theme=default" alt="Ahmed's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaali1999&layout=compact&hide=css,scss" alt="Top Languages" />
-</p>
